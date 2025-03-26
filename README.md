@@ -2,7 +2,7 @@
 
 just a simple PoW nothing special.
 
-![preview](https://dexv.online/content/cdn/buZsRDBXwsFV.png)
+![image](https://github.com/user-attachments/assets/a17a48d7-bbf6-4e89-a84d-eac3d87baa77)
 
 ## how the PoW works
 
