@@ -16,7 +16,7 @@ class PoW:
             "puzzle": puzzle,
         }
 
-    def solve(self):
+    def solve(self) -> str:
         puzzle = self.parsed["puzzle"]
         threshold = int(2 ** ((255.999 - self.parsed["diff"]) / 8))
         padded = puzzle.ljust(128, b'\x00')
